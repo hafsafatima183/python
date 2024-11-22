@@ -1,1 +1,4 @@
-print ("Hello world!")
+a = "Hafsa"
+b = "Fatima"
+c = a+b
+print (c)
