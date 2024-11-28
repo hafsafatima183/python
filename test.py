@@ -1,4 +1,3 @@
-a = "Hafsa"
-b = "Fatima"
-c = a+b
-print (c)
+a = 5.6
+b = 6
+print(type(a))
